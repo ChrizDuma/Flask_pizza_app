@@ -9,14 +9,13 @@
   [![Stargazers][stars-shield]][stars-url]
   [![Issues][issues-shield]][issues-url]
   [![MIT License][license-shield]][license-url]
-  [![Twitter][twitter-shield]][twitter-url]
 </div>
 
 <!-- Project Logo -->
 <br />
 <div align="center">
   <a href="https://github.com/ChrizDuma/Flask_pizza_app/">
-    <img src="./Images/img_1.jpg" alt="Logo" width="90%" height="30%">
+    <img src="./images/img_1.jpg" alt="Logo" width="90%" height="30%">
   </a>
 </div>
 
@@ -174,7 +173,7 @@ Project Link: [Flask_pizza_app](https://github.com/ChrizDuma/Flask_pizza_app)
 [issues-url]: https://github.com/ChrizDuma/Flask_pizza_app/issues
 [license-shield]: https://img.shields.io/github/license/ChrizDuma/Flask_pizza_app.svg?style=for-the-badge
 [license-url]: https://github.com/ChrizDuma/Flask_pizza_app/blob/main/LICENSE.txt
-[pizza-screenshot]: https://github.com/ChrizDuma/Flask_pizza_app/blob/main/Images/snapped.png
+[pizza-screenshot]: https://github.com/ChrizDuma/Flask_pizza_app/images/snapped.png
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
