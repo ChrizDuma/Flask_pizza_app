@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ChrizDuma/Flask_pizza_app/">
-    <img src="./images/img_1.jpg" alt="Logo" width="90%" height="30%">
+    <img src="./images/img_1.jpg" alt="Logo" width="90%" height="24%">
   </a>
 </div>
 
@@ -117,19 +117,6 @@ To use this API, follow these steps:
 7. Now authorized, you can create, view, update and delete orders via the many routes in 'orders'
 
 8. When you're done, click 'Authorize' at top right again to then 'Logout'
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-
----
-
-<!-- Sample Screenshot -->
-## Sample
-
-<br />
-
-[![Flask Pizza App Screenshot][pizza-screenshot]](https://github.com/ChrizDuma/Flask_pizza_app/blob/main/Images/snapped.png)
-
-<br/>
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
